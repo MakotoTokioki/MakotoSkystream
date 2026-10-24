@@ -1,0 +1,603 @@
+[
+  {
+    "packageName": "com.makototokioki.animecix",
+    "name": "AnimeciX",
+    "version": 8,
+    "description": "Türkçe altyazılı anime izleme kaynağı.",
+    "baseUrl": "https://animecix.tv",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.animecix.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.animecix.sky"
+  },
+  {
+    "packageName": "com.makototokioki.anizium",
+    "name": "Anizium",
+    "version": 4,
+    "description": "Türkçe dublaj ve altyazılı anime izleme kaynağı.",
+    "baseUrl": "https://api.anizium.co",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.anizium.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.anizium.sky"
+  },
+  {
+    "packageName": "com.makototokioki.asyawatch",
+    "name": "Asyawatch",
+    "version": 8,
+    "description": "Asyawatch — Kore, Çin ve diğer Asya dizilerini Türkçe altyazılı ve dublajlı, Full HD izleme kaynağı.",
+    "baseUrl": "https://asyawatch.com",
+    "domains": [
+      {
+        "name": "asyawatch.com",
+        "url": "https://asyawatch.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.asyawatch.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.asyawatch.sky"
+  },
+  {
+    "packageName": "com.makototokioki.atv",
+    "name": "ATV",
+    "version": 1,
+    "description": "ATV dizileri ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.atv.com.tr",
+    "domains": [
+      {
+        "name": "atv.com.tr",
+        "url": "https://www.atv.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.atv.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.atv.sky"
+  },
+  {
+    "packageName": "com.makototokioki.belgeselx",
+    "name": "BelgeselX",
+    "version": 15,
+    "description": "Türkçe dublaj ve altyazılı HD belgesel izleme kaynağı.",
+    "baseUrl": "https://belgeselx.com",
+    "domains": [
+      {
+        "name": "belgeselx.com",
+        "url": "https://belgeselx.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.belgeselx.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.belgeselx.sky"
+  },
+  {
+    "packageName": "com.makototokioki.cizgimax",
+    "name": "CizgiMax",
+    "version": 2,
+    "description": "ÇizgiMax — yüzlerce çizgi film ve animasyonu Türkçe dublaj ve altyazılı, HD kalitede izleme kaynağı.",
+    "baseUrl": "https://cizgimax.online",
+    "domains": [
+      {
+        "name": "cizgimax.online",
+        "url": "https://cizgimax.online"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.cizgimax.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.cizgimax.sky"
+  },
+  {
+    "packageName": "com.makototokioki.diziasia",
+    "name": "DiziAsia",
+    "version": 4,
+    "description": "DiziAsia — Kore, Çin, Japon, Tayvan, Tayland ve Filipinler dizi ve filmlerini Türkçe altyazılı izleme kaynağı.",
+    "baseUrl": "https://diziasia.com",
+    "domains": [
+      {
+        "name": "diziasia.com",
+        "url": "https://diziasia.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.diziasia.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.diziasia.sky"
+  },
+  {
+    "packageName": "com.makototokioki.dizipod",
+    "name": "Dizipod",
+    "version": 3,
+    "description": "Dizipod — yabancı dizi ve filmleri orijinal dilinde Türkçe altyazılı, Full HD izleme kaynağı.",
+    "baseUrl": "https://dizipod.com",
+    "domains": [
+      {
+        "name": "dizipod.com",
+        "url": "https://dizipod.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.dizipod.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.dizipod.sky"
+  },
+  {
+    "packageName": "com.makototokioki.dramadizilerim",
+    "name": "Drama Dizilerim",
+    "version": 3,
+    "description": "Drama Dizilerim — Kore, Çin ve kısa drama dizilerini Türkçe altyazılı ve dublajlı, HD kalitede izleme kaynağı.",
+    "baseUrl": "https://dramadizilerim.com",
+    "domains": [
+      {
+        "name": "dramadizilerim.com",
+        "url": "https://dramadizilerim.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.dramadizilerim.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.dramadizilerim.sky"
+  },
+  {
+    "packageName": "com.makototokioki.filmmakinesi",
+    "name": "FilmMakinesi",
+    "version": 5,
+    "description": "Film Makinesi — en yeni ve güncel filmleri Full HD kalitede Türkçe dublaj ve altyazılı izleme kaynağı.",
+    "baseUrl": "https://filmmakinesi.to",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "domains": [
+      {
+        "name": "filmmakinesi.to",
+        "url": "https://filmmakinesi.to"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.filmmakinesi.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.filmmakinesi.sky"
+  },
+  {
+    "packageName": "com.makototokioki.hdfilmcehennemi",
+    "name": "HDFilmCehennemi",
+    "version": 6,
+    "description": "Türkiye'nin en hızlı HD film ve dizi izleme kaynağı.",
+    "baseUrl": "https://www.hdfilmcehennemi.nl",
+    "domains": [
+      {
+        "name": "hdfilmcehennemi.nl",
+        "url": "https://www.hdfilmcehennemi.nl"
+      },
+      {
+        "name": "hdfilmcehennemi.ws",
+        "url": "https://www.hdfilmcehennemi.ws"
+      },
+      {
+        "name": "hdfilmcehennemi.com",
+        "url": "https://www.hdfilmcehennemi.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.hdfilmcehennemi.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.hdfilmcehennemi.sky"
+  },
+  {
+    "packageName": "com.makototokioki.inatbox",
+    "name": "InatBox",
+    "version": 12,
+    "description": "InatBox canlı TV, film ve dizi kaynağı.",
+    "baseUrl": "https://dizilabmedia.click",
+    "domains": [
+      {
+        "name": "dizilabmedia.click",
+        "url": "https://dizilabmedia.click"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.inatbox.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.inatbox.sky"
+  },
+  {
+    "packageName": "com.makototokioki.kanald",
+    "name": "KanalD",
+    "version": 1,
+    "description": "KanalD dizileri ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.kanald.com.tr",
+    "domains": [
+      {
+        "name": "kanald.com.tr",
+        "url": "https://www.kanald.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.kanald.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.kanald.sky"
+  },
+  {
+    "packageName": "com.makototokioki.nowtv",
+    "name": "NowTv",
+    "version": 1,
+    "description": "NOW (nowtv.com.tr) dizilerini ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.nowtv.com.tr",
+    "domains": [
+      {
+        "name": "nowtv.com.tr",
+        "url": "https://www.nowtv.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.nowtv.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.nowtv.sky"
+  },
+  {
+    "packageName": "com.makototokioki.rectv",
+    "name": "RecTV",
+    "version": 6,
+    "description": "RecTV canli TV ve film/dizi izleme kaynagi.",
+    "baseUrl": "https://a.psrectv80.xyz",
+    "domains": [
+      {
+        "name": "a.psrectv80.xyz",
+        "url": "https://a.psrectv80.xyz"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.rectv.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.rectv.sky"
+  },
+  {
+    "packageName": "com.makototokioki.selcukflix",
+    "name": "Selcukflix",
+    "version": 9,
+    "description": "Selcukflix — en yeni ve popüler yabancı dizi ve filmleri Türkçe dublaj ve altyazılı, Full HD izleme kaynağı.",
+    "baseUrl": "https://selcukflix.app",
+    "domains": [
+      {
+        "name": "selcukflix.app",
+        "url": "https://selcukflix.app"
+      },
+      {
+        "name": "selcukflix.com",
+        "url": "https://selcukflix.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.selcukflix.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.selcukflix.sky"
+  },
+  {
+    "packageName": "com.makototokioki.showtv",
+    "name": "Show TV",
+    "version": 2,
+    "description": "Show TV dizileri ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.showtv.com.tr",
+    "domains": [
+      {
+        "name": "showtv.com.tr",
+        "url": "https://www.showtv.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.showtv.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.showtv.sky"
+  },
+  {
+    "packageName": "com.makototokioki.startv",
+    "name": "Star TV",
+    "version": 2,
+    "description": "Star TV dizileri ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.startv.com.tr",
+    "domains": [
+      {
+        "name": "startv.com.tr",
+        "url": "https://www.startv.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.startv.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.startv.sky"
+  },
+  {
+    "packageName": "com.makototokioki.teve2",
+    "name": "Teve2",
+    "version": 2,
+    "description": "Teve2 dizileri ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.tv2.com.tr",
+    "domains": [
+      {
+        "name": "tv2.com.tr",
+        "url": "https://www.tv2.com.tr"
+      },
+      {
+        "name": "teve2.com.tr",
+        "url": "https://www.teve2.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.teve2.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.teve2.sky"
+  },
+  {
+    "packageName": "com.makototokioki.tlc",
+    "name": "TLC",
+    "version": 1,
+    "description": "TLC Türkiye programları, belgeselleri ve reality şovlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.tlctv.com.tr",
+    "domains": [
+      {
+        "name": "tlctv.com.tr",
+        "url": "https://www.tlctv.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.tlc.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.tlc.sky"
+  },
+  {
+    "packageName": "com.makototokioki.trt1",
+    "name": "TRT1",
+    "version": 4,
+    "description": "TRT 1 dizilerini ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.trt1.com.tr",
+    "domains": [
+      {
+        "name": "trt1.com.tr",
+        "url": "https://www.trt1.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.trt1.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.trt1.sky"
+  },
+  {
+    "packageName": "com.makototokioki.tv8",
+    "name": "TV8",
+    "version": 1,
+    "description": "TV8 dizileri ve programlarını Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.tv8.com.tr",
+    "domains": [
+      {
+        "name": "tv8.com.tr",
+        "url": "https://www.tv8.com.tr"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.tv8.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.tv8.sky"
+  },
+  {
+    "packageName": "com.makototokioki.yenikaynak",
+    "name": "YeniKaynak",
+    "version": 3,
+    "description": "İran filmlerini ve dizilerini Türkçe altyazılı izleme kaynağı.",
+    "baseUrl": "https://www.yenikaynak.com",
+    "domains": [
+      {
+        "name": "yenikaynak.com",
+        "url": "https://www.yenikaynak.com"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.yenikaynak.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.yenikaynak.sky"
+  },
+  {
+    "packageName": "com.makototokioki.yts",
+    "name": "YTS",
+    "version": 2,
+    "description": "YTS film arşivi — torrent üzerinden yüksek kalite film izleme kaynağı.",
+    "baseUrl": "https://yts.lt",
+    "domains": [
+      {
+        "name": "yts.lt",
+        "url": "https://yts.lt"
+      },
+      {
+        "name": "yts.am",
+        "url": "https://yts.am"
+      },
+      {
+        "name": "yts.ag",
+        "url": "https://yts.ag"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Movie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.yts.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.yts.sky"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "Skystream Türkçe Plugin Deposu",
+  "packageName": "com.makototokioki.skystream.tr",
+  "description": "SkyStream için Türkçe film, dizi ve anime eklenti deposu.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/plugins.json"
+  ]
+}
