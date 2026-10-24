@@ -522,7 +522,7 @@
   {
     "packageName": "com.makototokioki.tv8",
     "name": "TV8",
-    "version": 2,
+    "version": 4,
     "description": "TV8 dizileri ve programlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.tv8.com.tr",
     "domains": [
