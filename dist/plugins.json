@@ -342,7 +342,7 @@
   {
     "packageName": "com.makototokioki.rectv",
     "name": "RecTV",
-    "version": 6,
+    "version": 7,
     "description": "RecTV canli TV ve film/dizi izleme kaynagi.",
     "baseUrl": "https://a.psrectv80.xyz",
     "domains": [
