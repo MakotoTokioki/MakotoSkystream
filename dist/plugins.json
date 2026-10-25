@@ -133,6 +133,30 @@
     "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.cizgimax.sky"
   },
   {
+    "packageName": "com.makototokioki.ddizi",
+    "name": "Ddizi",
+    "version": 1,
+    "description": "Ddizi üzerindeki yerli, yabancı ve eski dizileri Türkçe izleme kaynağı.",
+    "baseUrl": "https://www.ddizi.tel",
+    "domains": [
+      {
+        "name": "ddizi.tel",
+        "url": "https://www.ddizi.tel"
+      }
+    ],
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.ddizi.png",
+    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.ddizi.sky"
+  },
+  {
     "packageName": "com.makototokioki.diziasia",
     "name": "DiziAsia",
     "version": 4,
@@ -518,30 +542,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.trt1.png",
     "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.trt1.sky"
-  },
-  {
-    "packageName": "com.makototokioki.tv8",
-    "name": "TV8",
-    "version": 6,
-    "description": "TV8 dizileri ve programlarını Türkçe izleme kaynağı.",
-    "baseUrl": "https://www.tv8.com.tr",
-    "domains": [
-      {
-        "name": "tv8.com.tr",
-        "url": "https://www.tv8.com.tr"
-      }
-    ],
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.tv8.png",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.tv8.sky"
   },
   {
     "packageName": "com.makototokioki.yenikaynak",
