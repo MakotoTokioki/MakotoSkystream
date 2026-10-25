@@ -135,7 +135,7 @@
   {
     "packageName": "com.makototokioki.ddizi",
     "name": "Ddizi",
-    "version": 1,
+    "version": 2,
     "description": "Ddizi üzerindeki yerli, yabancı ve eski dizileri Türkçe izleme kaynağı.",
     "baseUrl": "https://www.ddizi.tel",
     "domains": [
