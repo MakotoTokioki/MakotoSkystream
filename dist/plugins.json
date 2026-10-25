@@ -133,30 +133,6 @@
     "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.cizgimax.sky"
   },
   {
-    "packageName": "com.makototokioki.ddizi",
-    "name": "Ddizi",
-    "version": 2,
-    "description": "Ddizi üzerindeki yerli, yabancı ve eski dizileri Türkçe izleme kaynağı.",
-    "baseUrl": "https://www.ddizi.tel",
-    "domains": [
-      {
-        "name": "ddizi.tel",
-        "url": "https://www.ddizi.tel"
-      }
-    ],
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/icons/com.makototokioki.ddizi.png",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/MakotoSkystream/plugins/dist/com.makototokioki.ddizi.sky"
-  },
-  {
     "packageName": "com.makototokioki.diziasia",
     "name": "DiziAsia",
     "version": 5,
