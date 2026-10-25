@@ -2,7 +2,7 @@
   {
     "packageName": "com.makototokioki.animecix",
     "name": "AnimeciX",
-    "version": 8,
+    "version": 9,
     "description": "Türkçe altyazılı anime izleme kaynağı.",
     "baseUrl": "https://animecix.tv",
     "authors": [
@@ -20,7 +20,7 @@
   {
     "packageName": "com.makototokioki.anizium",
     "name": "Anizium",
-    "version": 4,
+    "version": 5,
     "description": "Türkçe dublaj ve altyazılı anime izleme kaynağı.",
     "baseUrl": "https://api.anizium.co",
     "authors": [
@@ -38,7 +38,7 @@
   {
     "packageName": "com.makototokioki.asyawatch",
     "name": "Asyawatch",
-    "version": 8,
+    "version": 9,
     "description": "Asyawatch — Kore, Çin ve diğer Asya dizilerini Türkçe altyazılı ve dublajlı, Full HD izleme kaynağı.",
     "baseUrl": "https://asyawatch.com",
     "domains": [
@@ -159,7 +159,7 @@
   {
     "packageName": "com.makototokioki.diziasia",
     "name": "DiziAsia",
-    "version": 4,
+    "version": 5,
     "description": "DiziAsia — Kore, Çin, Japon, Tayvan, Tayland ve Filipinler dizi ve filmlerini Türkçe altyazılı izleme kaynağı.",
     "baseUrl": "https://diziasia.com",
     "domains": [
@@ -184,7 +184,7 @@
   {
     "packageName": "com.makototokioki.dizipod",
     "name": "Dizipod",
-    "version": 3,
+    "version": 4,
     "description": "Dizipod — yabancı dizi ve filmleri orijinal dilinde Türkçe altyazılı, Full HD izleme kaynağı.",
     "baseUrl": "https://dizipod.com",
     "domains": [
@@ -392,7 +392,7 @@
   {
     "packageName": "com.makototokioki.selcukflix",
     "name": "Selcukflix",
-    "version": 9,
+    "version": 10,
     "description": "Selcukflix — en yeni ve popüler yabancı dizi ve filmleri Türkçe dublaj ve altyazılı, Full HD izleme kaynağı.",
     "baseUrl": "https://selcukflix.app",
     "domains": [
