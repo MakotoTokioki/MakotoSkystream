@@ -498,7 +498,7 @@
   {
     "packageName": "com.makototokioki.trt1",
     "name": "TRT1",
-    "version": 4,
+    "version": 5,
     "description": "TRT 1 dizilerini ve programlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.trt1.com.tr",
     "domains": [
