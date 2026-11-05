@@ -20,7 +20,7 @@
   {
     "packageName": "com.makototokioki.anizium",
     "name": "Anizium",
-    "version": 6,
+    "version": 7,
     "description": "Türkçe dublaj ve altyazılı anime izleme kaynağı.",
     "baseUrl": "https://api.anizium.co",
     "authors": [
