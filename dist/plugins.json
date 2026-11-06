@@ -38,7 +38,7 @@
   {
     "packageName": "com.makototokioki.asyawatch",
     "name": "Asyawatch",
-    "version": 10,
+    "version": 12,
     "description": "Asyawatch — Kore, Çin ve diğer Asya dizilerini Türkçe altyazılı ve dublajlı, Full HD izleme kaynağı.",
     "baseUrl": "https://asyawatch.com",
     "domains": [
@@ -185,7 +185,7 @@
   {
     "packageName": "com.makototokioki.dramadizilerim",
     "name": "Drama Dizilerim",
-    "version": 3,
+    "version": 4,
     "description": "Drama Dizilerim — Kore, Çin ve kısa drama dizilerini Türkçe altyazılı ve dublajlı, HD kalitede izleme kaynağı.",
     "baseUrl": "https://dramadizilerim.com",
     "domains": [
@@ -342,7 +342,7 @@
   {
     "packageName": "com.makototokioki.rectv",
     "name": "RecTV",
-    "version": 7,
+    "version": 8,
     "description": "RecTV canli TV ve film/dizi izleme kaynagi.",
     "baseUrl": "https://a.psrectv80.xyz",
     "domains": [
@@ -473,7 +473,7 @@
   {
     "packageName": "com.makototokioki.tlc",
     "name": "TLC",
-    "version": 2,
+    "version": 3,
     "description": "TLC Türkiye programları, belgeselleri ve reality şovlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.tlctv.com.tr",
     "domains": [
