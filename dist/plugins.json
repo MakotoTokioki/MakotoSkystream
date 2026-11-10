@@ -20,7 +20,7 @@
   {
     "packageName": "com.makototokioki.anizium",
     "name": "Anizium",
-    "version": 7,
+    "version": 8,
     "description": "Türkçe dublaj ve altyazılı anime izleme kaynağı.",
     "baseUrl": "https://api.anizium.co",
     "authors": [
@@ -38,7 +38,7 @@
   {
     "packageName": "com.makototokioki.asyawatch",
     "name": "Asyawatch",
-    "version": 12,
+    "version": 13,
     "description": "Asyawatch — Kore, Çin ve diğer Asya dizilerini Türkçe altyazılı ve dublajlı, Full HD izleme kaynağı.",
     "baseUrl": "https://asyawatch.com",
     "domains": [
@@ -63,7 +63,7 @@
   {
     "packageName": "com.makototokioki.atv",
     "name": "ATV",
-    "version": 1,
+    "version": 2,
     "description": "ATV dizileri ve programlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.atv.com.tr",
     "domains": [
@@ -87,7 +87,7 @@
   {
     "packageName": "com.makototokioki.belgeselx",
     "name": "BelgeselX",
-    "version": 15,
+    "version": 16,
     "description": "Türkçe dublaj ve altyazılı HD belgesel izleme kaynağı.",
     "baseUrl": "https://belgeselx.com",
     "domains": [
@@ -111,7 +111,7 @@
   {
     "packageName": "com.makototokioki.cizgimax",
     "name": "CizgiMax",
-    "version": 2,
+    "version": 3,
     "description": "ÇizgiMax — yüzlerce çizgi film ve animasyonu Türkçe dublaj ve altyazılı, HD kalitede izleme kaynağı.",
     "baseUrl": "https://cizgimax.online",
     "domains": [
@@ -135,7 +135,7 @@
   {
     "packageName": "com.makototokioki.diziasia",
     "name": "DiziAsia",
-    "version": 6,
+    "version": 7,
     "description": "DiziAsia — Kore, Çin, Japon, Tayvan, Tayland ve Filipinler dizi ve filmlerini Türkçe altyazılı izleme kaynağı.",
     "baseUrl": "https://diziasia.com",
     "domains": [
@@ -160,7 +160,7 @@
   {
     "packageName": "com.makototokioki.dizipod",
     "name": "Dizipod",
-    "version": 5,
+    "version": 6,
     "description": "Dizipod — yabancı dizi ve filmleri orijinal dilinde Türkçe altyazılı, Full HD izleme kaynağı.",
     "baseUrl": "https://dizipod.com",
     "domains": [
@@ -185,7 +185,7 @@
   {
     "packageName": "com.makototokioki.dramadizilerim",
     "name": "Drama Dizilerim",
-    "version": 4,
+    "version": 5,
     "description": "Drama Dizilerim — Kore, Çin ve kısa drama dizilerini Türkçe altyazılı ve dublajlı, HD kalitede izleme kaynağı.",
     "baseUrl": "https://dramadizilerim.com",
     "domains": [
@@ -209,7 +209,7 @@
   {
     "packageName": "com.makototokioki.filmmakinesi",
     "name": "FilmMakinesi",
-    "version": 5,
+    "version": 6,
     "description": "Film Makinesi — en yeni ve güncel filmleri Full HD kalitede Türkçe dublaj ve altyazılı izleme kaynağı.",
     "baseUrl": "https://filmmakinesi.to",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
@@ -235,7 +235,7 @@
   {
     "packageName": "com.makototokioki.hdfilmcehennemi",
     "name": "HDFilmCehennemi",
-    "version": 6,
+    "version": 7,
     "description": "Türkiye'nin en hızlı HD film ve dizi izleme kaynağı.",
     "baseUrl": "https://www.hdfilmcehennemi.nl",
     "domains": [
@@ -318,7 +318,7 @@
   {
     "packageName": "com.makototokioki.nowtv",
     "name": "NowTv",
-    "version": 1,
+    "version": 2,
     "description": "NOW (nowtv.com.tr) dizilerini ve programlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.nowtv.com.tr",
     "domains": [
@@ -342,7 +342,7 @@
   {
     "packageName": "com.makototokioki.rectv",
     "name": "RecTV",
-    "version": 8,
+    "version": 9,
     "description": "RecTV canli TV ve film/dizi izleme kaynagi.",
     "baseUrl": "https://a.psrectv80.xyz",
     "domains": [
@@ -368,7 +368,7 @@
   {
     "packageName": "com.makototokioki.selcukflix",
     "name": "Selcukflix",
-    "version": 10,
+    "version": 11,
     "description": "Selcukflix — en yeni ve popüler yabancı dizi ve filmleri Türkçe dublaj ve altyazılı, Full HD izleme kaynağı.",
     "baseUrl": "https://selcukflix.app",
     "domains": [
@@ -397,7 +397,7 @@
   {
     "packageName": "com.makototokioki.showtv",
     "name": "Show TV",
-    "version": 2,
+    "version": 4,
     "description": "Show TV dizileri ve programlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.showtv.com.tr",
     "domains": [
@@ -445,7 +445,7 @@
   {
     "packageName": "com.makototokioki.teve2",
     "name": "Teve2",
-    "version": 2,
+    "version": 3,
     "description": "Teve2 dizileri ve programlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.tv2.com.tr",
     "domains": [
@@ -473,7 +473,7 @@
   {
     "packageName": "com.makototokioki.tlc",
     "name": "TLC",
-    "version": 3,
+    "version": 4,
     "description": "TLC Türkiye programları, belgeselleri ve reality şovlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.tlctv.com.tr",
     "domains": [
@@ -498,7 +498,7 @@
   {
     "packageName": "com.makototokioki.trt1",
     "name": "TRT1",
-    "version": 5,
+    "version": 6,
     "description": "TRT 1 dizilerini ve programlarını Türkçe izleme kaynağı.",
     "baseUrl": "https://www.trt1.com.tr",
     "domains": [
@@ -547,7 +547,7 @@
   {
     "packageName": "com.makototokioki.yts",
     "name": "YTS",
-    "version": 2,
+    "version": 3,
     "description": "YTS film arşivi — torrent üzerinden yüksek kalite film izleme kaynağı.",
     "baseUrl": "https://yts.lt",
     "domains": [
